@@ -1,0 +1,40 @@
+{
+    "name": "vscode-angular-expansion",
+    "displayName": "VSCode Angular Expansion",
+    "description": "Angular常用的开发依赖扩展包",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": "https://github.com/SunRisingChang/vscode-angular-expansion",
+    "extensionPack": [ 
+        "Angular.ng-template", 
+        "ChakrounAnas.turbo-console-log", 
+        "christian-kohler.path-intellisense", 
+        "cipchk.ng-zorro-vscode", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "eamodio.gitlens", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "formulahendry.code-runner", 
+        "Gruntfuggly.todo-tree", 
+        "Mikael.Angular-BeastCode", 
+        "mikey.vscode-fileheader", 
+        "MS-CEINTL.vscode-language-pack-zh-hans", 
+        "msjsdiag.debugger-for-chrome", 
+        "ritwickdey.LiveServer", 
+        "shd101wyy.markdown-preview-enhanced", 
+        "SunRising.angular-file-help", 
+        "SunRising.web-dev-snippets", 
+        "SunRising.yapi-file-help", 
+        "uctakeoff.vscode-counter", 
+        "vscode-icons-team.vscode-icons", 
+        "wayou.vscode-todo-highlight", 
+        "wix.vscode-import-cost",
+        "MikeBovenlander.formate"
+    ]
+}
