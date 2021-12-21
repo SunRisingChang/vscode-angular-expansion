@@ -3,6 +3,8 @@
     "displayName": "VSCode Angular Expansion",
     "description": "Angular常用的开发依赖扩展包",
     "version": "0.0.1",
+    "icon": "asset/logo.png",
+    "publisher": "SunRising",
     "engines": {
         "vscode": "^1.30.0"
     },
@@ -25,7 +27,6 @@
         "Mikael.Angular-BeastCode", 
         "mikey.vscode-fileheader", 
         "MS-CEINTL.vscode-language-pack-zh-hans", 
-        "msjsdiag.debugger-for-chrome", 
         "ritwickdey.LiveServer", 
         "shd101wyy.markdown-preview-enhanced", 
         "SunRising.angular-file-help", 
